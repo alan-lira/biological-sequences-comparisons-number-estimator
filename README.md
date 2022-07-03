@@ -1,1 +1,2 @@
-# Biological Sequences Comparisons Number Estimator (biological-sequences-comparisons-number-estimator)
+# Biological Sequences Comparisons Number Estimator
+### (biological-sequences-comparisons-number-estimator)
